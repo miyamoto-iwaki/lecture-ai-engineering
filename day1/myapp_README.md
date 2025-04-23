@@ -12,7 +12,7 @@
     - 出力をかわいい感じになるようにプロンプトを工夫しました
 
 ## 変更後
-[kawaii](./images/kawaii.png)
+[./images/kawaii.png]
 
 ## Colabで開いて実行
 - [Open with Colab](https://colab.research.google.com/github/miyamoto-iwaki/lecture-ai-engineering/blob/master/day1/my_app.ipynb)
