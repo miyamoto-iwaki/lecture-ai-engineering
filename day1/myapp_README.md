@@ -9,7 +9,7 @@
 3. **変更点3**: 評価指標の導入
 
 ## Colabで開いて実行
-
+- [Open with Colab](https://colab.research.google.com/github/miyamoto-iwaki/lecture-ai-engineering/blob/master/day1/my_app.ipynb)
 
 ## その他
 その他の補足事項があれば記載してください。
