@@ -7,8 +7,9 @@
 1. **変更点1**: モデルを変更
     - gemma-2-2b-jpn-it -> gemma-3-1b-it
 2. **変更点2**: UIの変更
-    - 
-3. **変更点3**: 評価指標の導入
+    - 見た目がかわいくなるように変更しました
+3. **変更点2**: 出力の矯正
+    - 出力をかわいい感じになるようにプロンプトを工夫しました
 
 ## Colabで開いて実行
 - [Open with Colab](https://colab.research.google.com/github/miyamoto-iwaki/lecture-ai-engineering/blob/master/day1/my_app.ipynb)
